@@ -1,0 +1,190 @@
+
+body{
+  margin: 0;
+  font-family: serif;
+  text-align: center;
+  color: #638579;
+}
+.self{
+  background-color: #456745;
+  padding: 125px;
+}
+.msg{
+
+  font-weight: lighter;
+  margin-bottom: 75px;
+  margin-top: 55px;
+  color: red;
+  font-family: fantasy;
+  font-size: 4rem;
+}
+.title{
+  font-size: 1em;
+  margin-block-start:2em;
+    margin-block-end:2em;
+      margin-inline-start:0px;
+        margin-inline-end:0px;
+        color:#987789;
+        line-height: 4;
+        font-weight: 750;
+        width: 30%;
+        margin: auto;
+        padding-bottom: 38px;
+
+}
+hr{
+  border-style: none;
+  border-top-style:solid;
+  border-width: 7px;
+  border-color: #321111;
+  width: 5%;
+  color:pink;
+}
+
+h1{
+  color: white;
+  font-family: monospace;
+  font-size: 5rem;
+  margin: 0 auto 0 auto;
+  color: #767325 ;
+}
+h2{
+  color: white;
+  font-family: fantasy;
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+h3{
+  color:#345678;
+  font-family: serif;
+}
+
+.pgms{
+  width: 50%;
+  margin: 10px auto 120px auto;
+  color: #123112;
+}
+.skills{
+  margin-top: 80px;
+  color: pink;
+}
+
+.buttons{
+  background-color: yellow;
+  border-radius: 18px;
+  color:blue;
+  font-family: monospace;
+  padding: 10px;
+}
+.buttons:hover{
+  background-color: pink;
+  border-radius: 15px;
+  color: red;
+  font-family: sans-serif;
+  padding: 15px;
+}
+.buttons:hover{
+  background-color: pink;
+}
+.links{
+  background-color: pink;
+  padding: 50px 0 20px;
+}
+.links a{
+  color: pink;
+}
+a{
+  color: pink;
+}
+p{
+  line-height: 1;
+  font-weight: 700;
+  color: black;
+}
+.id{
+  padding: 15px;
+  color: pink;
+}
+.id:hover{
+  color:red;
+}
+.cntct{
+  margin: 75px 0px;
+  color: blue;
+}
+.intro{
+
+  font-kerning: normal;
+  font-weight: bolder;
+  border-bottom: solid;
+  border-top: solid;
+  border-right: solid;
+  border-left: solid;
+  border-color: #432567;
+  background-color: white;
+  padding: 20px;
+  position: static;
+  top: 0;
+  font-style: oblique;
+  font-family: cursive;
+  font-stretch: expanded;
+}
+a{
+  padding-right: 45px;
+}
+a:hover{
+  color: #321233;
+}
+.selfeducation{
+  background-color:#333333;
+  padding: 50px;
+}
+.study{
+  color: #4a0e09;
+  font-family: sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+
+.web{
+  line-height: 4;
+}
+.selfskills{
+  background-color:black;
+  padding: 50px;
+}
+.skillsinfo{
+  margin:0 auto 30px;
+  width:50%;
+}
+table{
+  font-family: sans-serif;
+  margin: auto;
+}
+td{
+  padding: 10px;
+  text-align: center;
+}
+.intro a{
+  color:pink;
+}
+.linkedin a {
+  color:pink;
+  font-family: serif;
+}
+.education{
+  padding: 15px;
+}
+.selfwork {
+  background-color: pink;
+  padding:55px;
+}
+.work{
+  color: blue;
+  font-family: monospace;
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 18px;
+}
